@@ -89,5 +89,5 @@ Whether Narendra Modi is a *“good”* Prime Minister depends on perspective an
 | 3          | *“1. United States - Donald Trump 2. France - Emmanuel Macron Now generate: India”*                            | Correctly identifies India’s leader              | Context is clear through pattern matching | No depth; relies on list completion      | Concise and accurate                | Useful for lists and tables                 | Effective for structured data completion       |
 | 4          | *“who is the prime minister of india? From what time he is serving… which party… Is he a good prime minister”* | Factually accurate with balanced opinions        | Mostly clear, though informal             | High depth due to multiple sub-questions | Detailed, informative, and balanced | Suitable for assignments and discussions    | Very effective for comprehensive understanding |
 
-# RESULT: 
+## RESULT: 
 The prompt for the above said problem executed successfully
